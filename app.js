@@ -15,6 +15,8 @@ function closeOpenBtn () {
     }
 };
 
+
+
 /*
 //2-second way
 menuBtn.onclick = function () {
